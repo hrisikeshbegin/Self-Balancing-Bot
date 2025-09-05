@@ -66,4 +66,4 @@ The robot uses sensor fusion and a PID control loop with a software Kalman filte
 4. Click **Upload** to flash the code to your Arduino.
 
 
-Developed With Love By Hrisikesh Kashyap
+Developed With Love By Hrisikesh Kashyap along with Other Members of the Robotics Club N.E.R.D.S.
